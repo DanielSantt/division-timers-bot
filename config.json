@@ -1,0 +1,10 @@
+{
+  "daily": { "hourUTC": 8 },
+  "weeklyProjects": { "weekday": 2, "hourUTC": 8, "minuteUTC": 0 },
+  "vendors": { "weekday": 2, "hourUTC": 8, "minuteUTC": 30 },
+  "clubChallenges": { "weekday": 3, "hourUTC": 8, "minuteUTC": 0 },
+  "stateOfTheGameInfo": "Sem transmissão anunciada no momento",
+  "weeklyMaintenanceInfo": "Sem manutenção anunciada no momento",
+  "lastResearchUpdate": null,
+  "lastResearchNotes": null
+}
